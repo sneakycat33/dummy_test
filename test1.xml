@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+
+    <!-- ================= PROJECT 1 ================= -->
+    <project>
+        <project_name>Green Valley Residency</project_name>
+        <property_description>
+            A premium residential project with eco-friendly infrastructure and modern amenities.
+        </property_description>
+        <property_type>Residential</property_type>
+        <property_status>Under Construction</property_status>
+        <project_area_value>12.5</project_area_value>
+        <project_area_unit>Acres</project_area_unit>
+        <website>https://greenvalley.example.com</website>
+        <email_address>info@greenvalley.com</email_address>
+        <address>45, Lake View Road, Chennai</address>
+        <landmark>Opposite City Park</landmark>
+        <city>Chennai</city>
+        <country>India</country>
+        <zip_code>600001</zip_code>
+        <video_url>https://youtube.com/sample1</video_url>
+        <general_amenities>Gym,Swimming Pool,Clubhouse</general_amenities>
+        <other_amenities>Hospital,Kids Area</other_amenities>
+
+        <project_phases>
+            <project_phase>
+                <project_id>1</project_id>
+                <phase_number>1</phase_number>
+                <parking>2</parking>
+                <manager_name>Rajesh Kumar</manager_name>
+                <phone_code>+91</phone_code>
+                <phone_number>9876543210</phone_number>
+                <whatsapp_code>+91</whatsapp_code>
+                <whatsapp_number>9876543210</whatsapp_number>
+                <units>120</units>
+                <rooms>3</rooms>
+                <size_value>1450</size_value>
+                <size_unit>Sq.ft</size_unit>
+                <price_value>8500000</price_value>
+                <currency>INR</currency>
+            </project_phase>
+        </project_phases>
+
+        <project_images>
+            <image>
+                <project_id>1</project_id>
+                <url>/uploads/green1.jpg</url>
+                <is_cover>true</is_cover>
+                <sort_order>1</sort_order>
+            </image>
+            <image>
+                <project_id>1</project_id>
+                <url>/uploads/green2.jpg</url>
+                <is_cover>false</is_cover>
+                <sort_order>2</sort_order>
+            </image>
+        </project_images>
+    </project>
+
+
+    <!-- ================= PROJECT 2 ================= -->
+    <project>
+        <project_name>Skyline Business Hub</project_name>
+        <property_description>
+            A modern commercial complex designed for startups and enterprises.
+        </property_description>
+        <property_type>Commercial</property_type>
+        <property_status>Ready</property_status>
+        <project_area_value>8.2</project_area_value>
+        <project_area_unit>Acres</project_area_unit>
+        <website>https://skylinehub.example.com</website>
+        <email_address>contact@skylinehub.com</email_address>
+        <address>IT Expressway, Bangalore</address>
+        <landmark>Near Tech Park</landmark>
+        <city>Bangalore</city>
+        <country>India</country>
+        <zip_code>560100</zip_code>
+        <video_url>https://youtube.com/sample2</video_url>
+        <general_amenities>Conference Hall,WiFi,Parking</general_amenities>
+        <other_amenities>Cafeteria,Security</other_amenities>
+
+        <project_phases>
+            <project_phase>
+                <project_id>2</project_id>
+                <phase_number>1</phase_number>
+                <parking>5</parking>
+                <manager_name>Arjun Mehta</manager_name>
+                <phone_code>+91</phone_code>
+                <phone_number>9988776655</phone_number>
+                <whatsapp_code>+91</whatsapp_code>
+                <whatsapp_number>9988776655</whatsapp_number>
+                <units>60</units>
+                <rooms>10</rooms>
+                <size_value>5000</size_value>
+                <size_unit>Sq.ft</size_unit>
+                <price_value>25000000</price_value>
+                <currency>INR</currency>
+            </project_phase>
+        </project_phases>
+
+        <project_images>
+            <image>
+                <project_id>2</project_id>
+                <url>/uploads/skyline1.jpg</url>
+                <is_cover>true</is_cover>
+                <sort_order>1</sort_order>
+            </image>
+        </project_images>
+    </project>
+
+
+    <!-- ================= PROJECT 3 ================= -->
+    <project>
+        <project_name>Industrial Park Alpha</project_name>
+        <property_description>
+            A large-scale industrial zone suitable for manufacturing and logistics.
+        </property_description>
+        <property_type>Industrial</property_type>
+        <property_status>Off Plan</property_status>
+        <project_area_value>25.0</project_area_value>
+        <project_area_unit>Acres</project_area_unit>
+        <website>https://industrialalpha.example.com</website>
+        <email_address>info@industrialalpha.com</email_address>
+        <address>NH 48 Highway, Hyderabad</address>
+        <landmark>Near Logistics Hub</landmark>
+        <city>Hyderabad</city>
+        <country>India</country>
+        <zip_code>500081</zip_code>
+        <postal_code>129424</postal_code>
+        <video_url>https://youtube.com/sample3</video_url>
+        <general_amenities>Warehousing,Power Supply,Security</general_amenities>
+        <other_amenities>Transport Hub,Fire Safety</other_amenities>
+
+        <project_phases>
+            <project_phase>
+                <project_id>3</project_id>
+                <phase_number>1</phase_number>
+                <parking>10</parking>
+                <manager_name>Sneha Reddy</manager_name>
+                <phone_code>+91</phone_code>
+                <phone_number>9090909090</phone_number>
+                <whatsapp_code>+91</whatsapp_code>
+                <whatsapp_number>9090909090</whatsapp_number>
+                <units>200</units>
+                <rooms>0</rooms>
+                <size_value>10000</size_value>
+                <size_unit>Sq.ft</size_unit>
+                <price_value>50000000</price_value>
+                <currency>INR</currency>
+            </project_phase>
+        </project_phases>
+
+        <project_images>
+            <image>
+                <project_id>3</project_id>
+                <url>/uploads/industrial1.jpg</url>
+                <is_cover>true</is_cover>
+                <sort_order>1</sort_order>
+            </image>
+            <image>
+                <project_id>3</project_id>
+                <url>/uploads/industrial2.jpg</url>
+                <is_cover>false</is_cover>
+                <sort_order>2</sort_order>
+            </image>
+        </project_images>
+    </project>
+
+</projects>
